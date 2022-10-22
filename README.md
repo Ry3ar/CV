@@ -1,2 +1,2 @@
 # CV
-profile
+profile (HTML + CSS + JS)
